@@ -21,7 +21,5 @@ public class CalculationTest {
     @Test
     public void testSub() {
         assertEquals(2, calculation.sub(7, 5));
-
-        assertEquals(9, calculation.sub(3, 12));
     }
 }
